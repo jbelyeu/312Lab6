@@ -8,8 +8,10 @@ namespace LinearProgramming
 {
     class MineProduction
     {
+
         static void Main(string[] args)
         {
+
         }
     }
 }
